@@ -1,4 +1,4 @@
-## I am a Dance Fitness trainer building an AI choreography assistant. Academically speaking, an engineer, professionally speaking, building real tech for the first time.
+## I am a Dance Fitness trainer [website](https://www.vibewithvat.com/) building an AI choreography assistant. Academically speaking, an engineer, professionally speaking, building real tech for the first time.
 
 <!--
 **gvatyani/gvatyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
